@@ -1,0 +1,18 @@
+
+:orphan:
+
+.. _sphx_glr_tutorials_sg_execution_times:
+
+Computation times
+=================
+**00:37.278** total execution time for **tutorials** files:
+
+- **00:12.865**: :ref:`sphx_glr_tutorials_chain.py` (``chain.py``)
+- **00:06.076**: :ref:`sphx_glr_tutorials_weights.py` (``weights.py``)
+- **00:05.065**: :ref:`sphx_glr_tutorials_vectors.py` (``vectors.py``)
+- **00:04.465**: :ref:`sphx_glr_tutorials_model_selection.py` (``model_selection.py``)
+- **00:03.797**: :ref:`sphx_glr_tutorials_projections.py` (``projections.py``)
+- **00:02.190**: :ref:`sphx_glr_tutorials_overview.py` (``overview.py``)
+- **00:01.530**: :ref:`sphx_glr_tutorials_decimation.py` (``decimation.py``)
+- **00:00.688**: :ref:`sphx_glr_tutorials_model_evaluation.py` (``model_evaluation.py``)
+- **00:00.602**: :ref:`sphx_glr_tutorials_trends.py` (``trends.py``)

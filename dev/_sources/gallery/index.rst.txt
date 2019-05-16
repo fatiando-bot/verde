@@ -1,5 +1,9 @@
 :orphan:
 
+
+
+.. _sphx_glr_gallery:
+
 .. _gallery:
 
 Gallery
@@ -128,6 +132,26 @@ This gallery contains a selection examples of what Verde can do.
    :hidden:
 
    /gallery/spline
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="The :class:`verde.Spline` has two main parameters that need to be configured:">
+
+.. only:: html
+
+    .. figure:: /gallery/images/thumb/sphx_glr_spline_cv_thumb.png
+
+        :ref:`sphx_glr_gallery_spline_cv.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /gallery/spline_cv
 
 .. raw:: html
 

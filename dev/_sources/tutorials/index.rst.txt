@@ -1,5 +1,9 @@
 :orphan:
 
+
+
+.. _sphx_glr_tutorials:
+
 .. _tutorials:
 
 Tutorials
@@ -50,6 +54,26 @@ Tutorials
 .. raw:: html
 
     <div class="sphx-glr-thumbcontainer" tooltip="The Green&#x27;s functions based interpolations in Verde are all linear regressions under the hood. ...">
+
+.. only:: html
+
+    .. figure:: /tutorials/images/thumb/sphx_glr_model_evaluation_thumb.png
+
+        :ref:`sphx_glr_tutorials_model_evaluation.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /tutorials/model_evaluation
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="In :ref:`model_evaluation`, we saw how to check the performance of an interpolator using cross-...">
 
 .. only:: html
 
